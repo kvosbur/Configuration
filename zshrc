@@ -114,6 +114,9 @@ alias are="sudo service apache2 restart"
 alias python="python3"
 alias python2="python"
 
+#easy access to config files
+alias zshconfig="vim ~/.zshrc"
+alias vimconfig="vim ~/.vimrc"
 
 source ~/.shellConfig/extrasrc
 
