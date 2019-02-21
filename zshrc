@@ -114,5 +114,8 @@ alias are="sudo service apache2 restart"
 alias python="python3"
 alias python2="python"
 
+
+source ~/.extrasrc
+
 #run update script to get update from github
 ~/.shellConfig/update.sh
