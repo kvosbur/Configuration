@@ -1,5 +1,0 @@
-https://github.com/robbyrussell/oh-my-zsh
-bd
-vim 
-zsh
-
