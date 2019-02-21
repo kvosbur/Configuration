@@ -104,4 +104,15 @@ alias homet="ssh team@kevinvosburgh.com"
 alias agi="sudo apt install "
 alias agu="sudo apt update "
 alias agug="sudo apt upgrade"
+alias network="netstat -lpn"
+alias al="cd /var/log/apache2 && ls"
+alias ac="cd /etc/apache2 && ls"
+alias aso="cd /var/www/ && ls"
+alias h="cd ~ && ls"
+alias team="cd /home/team/Projects && ls"
+alias are="sudo service apache2 restart"
+alias python="python3"
+alias python2="python"
+
+#run update script to get update from github
 ~/.shellConfig/update.sh
