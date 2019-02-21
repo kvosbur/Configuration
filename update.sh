@@ -2,7 +2,7 @@
 
 prev=$(pwd)
 
-cd ~/.config
+cd ~/.shellConfig
 
 #receive updates on the git repo and ignore its output
 git remote update &> /dev/null

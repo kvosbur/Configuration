@@ -104,4 +104,4 @@ alias homet="ssh team@kevinvosburgh.com"
 alias agi="sudo apt install "
 alias agu="sudo apt update "
 alias agug="sudo apt upgrade"
-~/.config/update.sh
+~/.shellConfig/update.sh
