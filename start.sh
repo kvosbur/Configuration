@@ -16,7 +16,8 @@ chsh -s $(which zsh)
 
 #make soft links for config files
 echo "Making soft links to repository config files"
-ln -s ./zsrhc ../.zshrc
-ln -s ./vimrc ../.vimrc
+rm ~/.zshrc
+ln -s ~/.shellConfig/zsrhc ~/.zshrc
+ln -s ~/.shellConfig/vimrc ~/.vimrc
 
 echo "Please logout and log back in for changes to take affect."
