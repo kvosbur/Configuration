@@ -115,7 +115,7 @@ alias python="python3"
 alias python2="python"
 
 
-source ~/.extrasrc
+source ~/.shellConfig/extrasrc
 
 #run update script to get update from github
 ~/.shellConfig/update.sh
