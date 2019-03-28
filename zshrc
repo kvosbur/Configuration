@@ -118,6 +118,12 @@ alias python2="python"
 alias zshconfig="vim ~/.zshrc"
 alias vimconfig="vim ~/.vimrc"
 
+#tmux aliases
+alias tls="tmux ls"
+alias tnew="tmux new -s"
+alias tcont="tmux attach-session -t"
+alias tkill="tmux kill-session -t"
+
 source ~/.shellConfig/extrasrc
 
 #run update script to get update from github
