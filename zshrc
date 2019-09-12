@@ -113,7 +113,7 @@ alias team="cd /home/team/Projects && ls"
 alias are="sudo service apache2 restart"
 alias python="python3"
 alias python2="python"
-alias tastetrade="cd /home/team/Projects/TasteTradeServer && ls"
+alias taste="cd /home/team/Projects/TasteTradeServer && ls"
 
 #easy access to config files
 alias zshconfig="vim ~/.zshrc"
